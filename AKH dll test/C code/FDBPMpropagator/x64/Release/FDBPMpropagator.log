@@ -1,0 +1,62 @@
+﻿  FDBPMpropagator.cpp
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(37,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'bool *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(50,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'char *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(63,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'signed char *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(76,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'short *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(89,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'int *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(102,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'long *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(115,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type '__int64 *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(130,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'unsigned char *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(143,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'unsigned short *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(156,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'unsigned int *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(169,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'unsigned long *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(182,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'unsigned __int64 *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(197,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'float *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(210,14): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'std::complex<float> *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(221,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'double *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(234,14): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'std::complex<double> *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(245,12): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'long double *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\FDBPMpropagator\print.h(258,14): warning C4477: 'printf' : format string '%llu' requires an argument of type 'unsigned __int64', but variadic argument 3 has type 'std::complex<long double> *'
+  (compiling source file 'FDBPMpropagator.cpp')
+  
+     Creating library C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\x64\Release\FDBPMpropagator.lib and object C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\x64\Release\FDBPMpropagator.exp
+  Generating code
+  65 of 68 functions (95.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FDBPMpropagator.vcxproj -> C:\Users\ander\Documents\BPM-Python\AKH dll test\C code\x64\Release\FDBPMpropagator.dll
